@@ -1,0 +1,1 @@
+A simple shortest path algorithm applied to Github, where people are "connected" when they commit to a common repository.
